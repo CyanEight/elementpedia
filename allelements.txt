@@ -1,0 +1,118 @@
+-370/190/Reactive non-metal/Hydrogen/H/1/1.0078/
+330/190/Noble gas/Helium/He/2/4.0026/
+-370/150/Alkali metal/Lithium/Li/3/6.9410/
+-330/150/Alkaline earth metal/Beryllium/Be/4/9.0122/
+130/150/Metalloid/Boron/B/5/10.811/
+170/150/Reactive non-metal/Carbon/C/6/12.011/
+210/150/Reactive non-metal/Nitrogen/N/7/14.007/
+250/150/Reactive non-metal/Oxygen/O/8/15.999/
+290/150/Reactive non-metal/Fluorine/F/9/18.998/
+330/150/Noble gas/Neon/Ne/10/20.180/
+-370/110/Alkali metal/Sodium/Na/11/22.990/
+-330/110/Alkaline earth metal/Magnesium/Mg/12/24.305/
+130/110/Post-transition metal/Aluminium/Al/13/26.982/
+170/110/Metalloid/Silicon/Si/14/28.086/
+210/110/Reactive non-metal/Phosphorus/P/15/30.974/
+250/110/Reactive non-metal/Sulfur/S/16/32.065/
+290/110/Reactive non-metal/Chlorine/Cl/17/35.453/
+330/110/Noble gas/Argon/Ar/18/39.948/
+-370/70/Alkali metal/Potassium/K/19/39.098/
+-330/70/Alkaline earth metal/Calcium/Ca/20/40.078/
+-290/70/Transition metal/Scandium/Sc/21/44.956/
+-230/70/Transition metal/Titanium/Ti/22/47.867/
+-190/70/Transition metal/Vanadium/V/23/50.942/
+-150/70/Transition metal/Chromium/Cr/24/51.996/
+-110/70/Transition metal/Manganese/Mn/25/54.938/
+-70/70/Transition metal/Iron/Fe/26/55.845/
+-30/70/Transition metal/Cobalt/Co/27/58.933/
+10/70/Transition metal/Nickel/Ni/28/58.693/
+50/70/Transition metal/Copper/Cu/29/63.546/
+90/70/Transition metal/Zinc/Zn/30/65.380/
+130/70/Post-transition metal/Gallium/Ga/31/69.723/
+170/70/Metalloid/Germanium/Ge/32/72.360/
+210/70/Metalloid/Arsenic/As/33/74.922/
+250/70/Reactive non-metal/Selenium/Se/34/78.971/
+290/70/Reactive non-metal/Bromine/Br/35/79.904/
+330/70/Noble gas/Krypton/Kr/36/83.798/
+-370/30/Alkali metal/Rubidium/Rb/37/85.468/
+-330/30/Alkaline earth metal/Strontium/Sr/38/87.62/
+-290/30/Transition metal/Yitrium/Y/39/88.906/
+-230/30/Transition metal/Zirconium/Zr/40/91.224/
+-190/30/Transition metal/Niobium/Nb/41/92.906/
+-150/30/Transition metal/Molybdenum/Mo/42/95.95/
+-110/30/Transition metal/Technetium/Tc/43/97/
+-70/30/Transition metal/Ruthenium/Ru/44/101.07/
+-30/30/Transition metal/Rhodium/Rh/45/102.91/
+10/30/Transition metal/Palladium/Pd/46/106.42/
+50/30/Transition metal/Silver/Ag/47/107.87/
+90/30/Transition metal/Cadmium/Cd/48/112.41/
+130/30/Post-transition metal/Indium/In/49/114.82/
+170/30/Post-transition metal/Tin/Sn/50/118.71/
+210/30/Metalloid/Antimony/Sb/51/121.76/
+250/30/Metalloid/Tellurium/Te/52/127.60/
+290/30/Reactive non-metal/Iodine/I/53/126.90/
+330/30/Noble gas/Xenon/Xe/54/131.29/
+-370/-10/Alkali metal/Caesium/Cs/55/132.91/
+-330/-10/Alkaline earth metal/Barium/Ba/56/137.33/
+-290/-10/Lanthanide/Lanthanum/La/57/138.91/
+-230/-110/Lanthanide/Cerium/Ce/58/140.12/
+-190/-110/Lanthanide/Praseodymium/Pr/59/140.91/
+-150/-110/Lanthanide/Neodymium/Nd/60/144.24/
+-110/-110/Lanthanide/Promethium/Pm/61/145/
+-70/-110/Lanthanide/Samarium/Sm/62/150.36/
+-30/-110/Lanthanide/Europium/Eu/63/151.96/
+10/-110/Lanthanide/Gadolinium/Gd/64/157.25/
+50/-110/Lanthanide/Terbium/Tb/65/158.93/
+90/-110/Lanthanide/Dysprosium/Dy/66/162.50/
+130/-110/Lanthanide/Holmium/Ho/67/164.93/
+170/-110/Lanthanide/Erbium/Er/68/167.26/
+210/-110/Lanthanide/Thulium/Tm/69/168.93/
+250/-110/Lanthanide/Ytterbium/Yb/70/173.05/
+290/-110/Lanthanide/Lutetium/Lu/71/174.97/
+-230/-10/Transition metal/Hafnium/Hf/72/178.49/
+-190/-10/Transition metal/Tantalum/Ta/73/180.95/
+-150/-10/Transition metal/Tungsten/W/74/183.84/
+-110/-10/Transition metal/Rhenium/Re/75/186.21/
+-70/-10/Transition metal/Osmium/Os/76/190.23/
+-30/-10/Transition metal/Iridium/Ir/77/192.22/
+10/-10/Transition metal/Platinum/Pt/78/195.08/
+50/-10/Transition metal/Gold/Au/79/196.97/
+90/-10/Transition metal/Mercury/Hg/80/200.59/
+130/-10/Post-transition metal/Thallium/Tl/81/204.38/
+170/-10/Post-transition metal/Lead/Pb/82/207.20/
+210/-10/Post-transition metal/Bismuth/Bi/83/208.98/
+250/-10/Post-transition metal/Polonium/Po/84/209/
+290/-10/Post-transition metal/Astatine/At/85/210/
+330/-10/Noble gas/Radon/Rn/86/222/
+-370/-50/Alkali metal/Francium/Fr/87/223/
+-330/-50/Alkaline earth metal/Radium/Ra/88/226/
+-290/-50/Actinide/Actinium/Ac/89/227/
+-230/-150/Actinide/Thorium/Th/90/232.04/
+-190/-150/Actinide/Protactinium/Pa/91/231.04/
+-150/-150/Actinide/Uranium/U/92/238.03/
+-110/-150/Actinide/Neptunium/Np/93/237/
+-70/-150/Actinide/Plutonium/Pu/94/244/
+-30/-150/Actinide/Americium/Am/95/243/
+10/-150/Actinide/Curium/Cm/96/247/
+50/-150/Actinide/Berkelium/Bk/97/247/
+90/-150/Actinide/Californium/Cf/98/251/
+130/-150/Actinide/Einsteinium/Es/99/252/
+170/-150/Actinide/Fermium/Fm/100/257/
+210/-150/Actinide/Mendelevium/Md/101/258/
+250/-150/Actinide/Nobelium/No/102/259/
+290/-150/Actinide/Lawrencium/Lr/103/266/
+-230/-50/Transition metal/Rutherfordium/Rf/104/267/
+-190/-50/Transition metal/Dubnium/Db/105/268/
+-150/-50/Transition metal/Seaborgium/Sg/106/267/
+-110/-50/Transition metal/Bohrium/Bh/107/270/
+-70/-50/Transition metal/Hassium/Hs/108/271/
+-30/-50/Unknown/Meitnerium/Mt/109/278/
+10/-50/Unknown/Darmstadtium/Ds/110/281/
+50/-50/Unknown/Roentgenium/Rg/111/282/
+90/-50/Unknown/Copernicium/Cn/112/285/
+130/-50/Unknown/Nihonium/Nh/113/286/
+170/-50/Unknown/Flerovium/Fl/114/289/
+210/-50/Unknown/Moscovium/Mc/115/290/
+250/-50/Unknown/Livermorium/Lv/116/293/
+290/-50/Unknown/Tennessine/Ts/117/294/
+330/-50/Unknown/Oganesson/Og/118/294/
